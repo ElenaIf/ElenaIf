@@ -1,5 +1,5 @@
 ### Hi there, my name is Elena 👋
 
-- 👩‍💻 Check my portfolio - https://ivankina.fi/ 
-- 🖥 Some of my skills are: Typescript, React, HTML, CSS, UX/UI Design, Agile Development, JavaScript, PHP, Symfony, MariaDb
+- 👩‍💻 Front-end Developer
+- 🖥 Typescript, React
 - 📫 Email: elena@ivankina.fi
