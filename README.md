@@ -2,4 +2,3 @@
 
 - 👩‍💻 Front-end Developer
 - 🖥 Typescript, React
-- 📫 Email: elena@ivankina.fi
